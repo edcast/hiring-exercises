@@ -15,7 +15,6 @@ All applicants are required to submit only one assignment based on their knowled
 ### Sharing the code
 
 Create a new **private repository** for your exercise and add the EdCast hiring team members as private collaborators (We do this to preserve your anonymity so it's not obvious you are looking for a new tole.)
-
     * [Prashant Dubey](https://github.com/prashantdubey)
     * [Kapil Dewade](https://github.com/kapildewade)
     * [Prabhanshu Pandit](https://github.com/prabhanshu)
